@@ -19,7 +19,7 @@ You can Download the dataset at [kaggle](https://www.kaggle.com/fanconic/skin-ca
 
 ### My Model Architecture  
 
-![model](images/modelcopy.png)
+![model](images/model2.png)
 
 ### Training Graph 
 ![graph](images/graph.png)
