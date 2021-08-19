@@ -13,10 +13,16 @@ In this Notebook I will try to detect 2 different classes of moles using Convolu
 
 You can Download the dataset at [kaggle](https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign) 
 
+### The DataSet Images 
+![Dataset images](images/dataset.png)
+
+
 ### My Model Architecture  
 
+![model](images/model.png)
 
-![model](87%_model.png)
+### Training Graph 
+![graph](images/graph.png)
 
 ## Requirements 
 ***
