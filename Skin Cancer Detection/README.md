@@ -9,3 +9,13 @@ Dataset has 2 different classes of skin cancer which are listed below :
 2. Malignant 
 
 In this Notebook I will try to detect 2 different classes of moles using Convolution Neural Network with keras tensorflow in backend and then analyse the result to see how the model can be useful in practical scenario.
+
+
+You can Download the dataset at [kaggle](https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign) 
+
+## Requirements 
+***
+
+To run the notebook You will need 
+> Tensorflow
+
