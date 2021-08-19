@@ -15,7 +15,8 @@ You can Download the dataset at [kaggle](https://www.kaggle.com/fanconic/skin-ca
 
 ### My Model Architecture  
 
-![model](images/87%_model.png)
+
+![model](87%_model.png)
 
 ## Requirements 
 ***
