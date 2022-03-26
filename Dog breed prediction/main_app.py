@@ -7,17 +7,19 @@ from tensorflow.keras.models import load_model
 
 
 #Loading the Model
-model = load_model('dog_bread.h5')
+model = load_model('/Volumes/T5 ssd/project/TEST /transfer_l_mode.h5')
 
 #Name of Classes
-CLASS_NAMES = ['Scottish Deerhound','Maltese Dog','Bernese Mountain Dog']
+CLASS_NAMES = ['mask','no mask','imroper mask']
+
+
 
 #Setting Title of App
 st.title("Dog Breed Prediction")
 st.markdown("Upload an image of the dog")
 
 #Uploading the dog image
-dog_image = st.file_uploader("Choose an image...", type="png")
+dog_image = st.file_uploader("Choose an image...", type="jpg")
 submit = st.button('Predict')
 #On predict button click
 if submit:
